@@ -26,7 +26,7 @@ can view a live version of this tool at http://matthewreidsma.com/projects/tweep
 
 COPYRIGHT
 
-This tool is copyright 2011 Matthew Reidsma. 
+This tool is copyright 2012 Matthew Reidsma. 
 
 This tool is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
