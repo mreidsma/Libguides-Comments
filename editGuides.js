@@ -4,13 +4,13 @@ $(document).ready(function() {
 	// Requires jQuery: http://jquery.com
 	
 	// Change the following line to be the guide id you want this script to work on:
-	var guide_trigger = "8140";
+	var guide_trigger = "";
 	
 	// Change the following line to be the path of the libguides_write.php file
-	var write_path = "http://gvsulib.com/temp/libguides_write.php";
+	var write_path = "";
 	
 	// Change the following line to be the path of the comment-icon.gif file
-	var icon_path = "http://gvsulib.com/labs/img/comment-icon.gif";
+	var icon_path = "";
 	
 	// Don't edit below this unless you know what you are doing.
 	// #########################################################
