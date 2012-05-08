@@ -33,23 +33,3 @@ This tool is free software: you can redistribute it and/or modify it under the t
 This tool is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this tool. If not, see <http://www.gnu.org/licenses/>. Webkit browsers - Safari and Chrome. Try Firefox.)
-
-More questions? Feel free to contact Matthew Reidsma on Twitter at @mreidsma or via email at reidsmam@gvsu.edu.
-
-DEMO
-
-You can view a live version of this tool at http://matthewreidsma.com/projects/tweeps.
-
-FONTS
-
-I'm using the excellent League Gothic from The League of Moveable Type for the heading font on this tool. League Gothic is released under the Open Type License (a copy is included in the fonts/ folder). More info on League Gothic can be found here: http://www.theleagueofmoveabletype.com/league-gothic
-
-COPYRIGHT
-
-This tool is copyright 2011 Matthew Reidsma. 
-
-This tool is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This tool is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this tool. If not, see <http://www.gnu.org/licenses/>.
